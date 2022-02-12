@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haochentu
 - 👀 I’m interested in sports, watching movies, and travelling 
-- 🌱 I’m currently learning Italian history and Computer Science
+- 🌱 I study business and CS, and I am a 3D modeler
 - 📫 How to reach me: haochentu@outlook.com
 
 <!---
